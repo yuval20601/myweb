@@ -7,7 +7,7 @@ See [the homepage](http://os.alfajango.com/heroku-sinatra-mvc/) for more details
 
 ## Usage
 
-Clone this repo `git clone git://github.com/sinatra/heroku-sinatra-app [appname]`
+Clone this repo `git clone git://github.com/dpaluy/heroku-sinatra-app [appname]`
 
 ## Controller
 
